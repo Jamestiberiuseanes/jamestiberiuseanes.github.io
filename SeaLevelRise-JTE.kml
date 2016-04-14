@@ -4,7 +4,7 @@
 	<name>1m</name>
 	<color>33ffffff</color>
 	<Icon>
-		<href>Yellow.png</href>
+		<href>None.png</href>
 		<viewBoundScale>0.30</viewBoundScale>
 	</Icon>
 	<altitude>1</altitude>

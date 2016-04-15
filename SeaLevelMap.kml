@@ -22,9 +22,9 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates> -75,37,17
-				-74,37,17
-				-74,36,17
-				-75,36,17
+				-74.9,37,17
+				-74.9,36.9,17
+				-75,36.9,17
 				-75,37,17
 			</coordinates>
               </LinearRing>
